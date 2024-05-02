@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:FSRE-Timetable-Notify/fsre-timetable-notify-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:FSRE-Timetable-Notify/fsre-timetable-notify-frontend.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:FSRE-Timetable-Notify/fsre-timetable-notify-mobile.git
