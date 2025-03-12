@@ -44,6 +44,9 @@ Neke informacije:
 
 ### Mobile
 
+>[!WARNING]
+>Mobilna aplikacija trenutno nije u aktivnom razvoju. Instaliranje potpuno nove aplikacije na korisnički uređaj nije optimalno rješenje za jednostavne obavijesti o promjenama rasporeda. Umjesto toga, koristi se web frontend za pretplatu korisnika na obavijesti i email poruke.
+
 Mobilna aplikacija je izrađena u Flutter-u i najkompleksniji je dio ovog projekta.
 Koristi Flutter BLoC i BLoC arhitekturu, a glavni cilj prilikom izrade je bio snižavanje mogućnosti pogrešaka.
 Aplikacija je jednostavna i služi za registriranje subskripcija na FCM kao i za pregled povijesti notifikacija.
